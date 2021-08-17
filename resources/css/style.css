@@ -2,6 +2,8 @@ body{
     background-color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
+    font-size: 21px;
+    color: gray;
 }
 
 h1{
@@ -29,4 +31,10 @@ img{
     display: block;
 }
 
+footer p{
+    text-align: right;
+}
 
+#icon{
+    margin-top: 42px;
+}
